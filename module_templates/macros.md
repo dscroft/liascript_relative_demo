@@ -6,6 +6,8 @@ title: liascript_relative_demo
 
 *Here is some* ***stuff*** **in a macro.**
 
+Version 2.
+
 @end
 
 link:  ../assets/styles.css
