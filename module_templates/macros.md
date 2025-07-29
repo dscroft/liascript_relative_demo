@@ -1,4 +1,5 @@
 <!--
+
 author:   DART Team, David Croft
 email:    dart@chop.edu, david.croft@warwick.ac.uk
 version:  1.4.1
@@ -154,6 +155,10 @@ script:  https://code.jquery.com/jquery-3.6.0.slim.min.js
 
 -->
 
-# macros
+# Module Macros
 
+@overview
 
+## Feedback
+
+@feedback
